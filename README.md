@@ -38,9 +38,15 @@ Teacher Yeh's list -- Asian food guide for Silicon Valley
 
 ## 中國菜
 
-### 金金
+### Jing Jing Szechwan & Hunan Gourmet 金金
 - 四川湖南菜；老闆娘是台灣人
 - 443 Emerson St, Palo Alto, CA 94301
+
+### Su Hong Eatery 蘇杭小館
+- 4256 El Camino Real, Palo Alto, CA 94306
+
+### Hong Kong Restaurant 香港小館
+- 3691 El Camino Real, Palo Alto, CA 94306
 
 ### 小肥羊
 - 世界連鎖火鍋店
