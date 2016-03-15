@@ -4,7 +4,7 @@ Teacher Yeh's list -- Asian food guide for Silicon Valley
 
 ## 拉麵
 
-### Ramen Dojo
+### Ramen Dojo 拉麵道場
 - 805 S B St, San Mateo, CA 94401
 - 特色：黃金大蒜
 - 車位較難找；用餐時段需要排隊
@@ -15,16 +15,16 @@ Teacher Yeh's list -- Asian food guide for Silicon Valley
 
 ## 台灣菜
 
-### Boiling Point
+### Boiling Point 沸點
 - 台灣臭臭鍋
 - 46807 Warm Springs Blvd, Fremont, CA 94539
 - 價位：一人含稅含服務費約 $15
 
-### Liang's Village Cuisine
+### Liang's Village Cuisine 梁媽媽家 臺灣眷村美食
 - 眷村菜
 - 19772 Stevens Creek Blvd, Cupertino, CA 95014
 
-### Ma Ma Chen's Kitchen
+### Ma Ma Chen's Kitchen 陳媽媽廚房
 - 綜合台菜
 - 19052 Stevens Creek Blvd, Cupertino, CA 95014
 
@@ -48,6 +48,6 @@ Teacher Yeh's list -- Asian food guide for Silicon Valley
 ### Hong Kong Restaurant 香港小館
 - 3691 El Camino Real, Palo Alto, CA 94306
 
-### 小肥羊
+### Little Sheep Mongolian Hot Pot 小肥羊
 - 世界連鎖火鍋店
 - 102 Castro St, Mountain View, CA 94041
