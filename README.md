@@ -51,3 +51,10 @@ Teacher Yeh's list -- Asian food guide for Silicon Valley
 ### Little Sheep Mongolian Hot Pot 小肥羊
 - 世界連鎖火鍋店
 - 102 Castro St, Mountain View, CA 94041
+
+
+## 韓式料理
+
+### Bon Chon
+- 世界連鎖韓式炸雞
+- 572 E. El Camino Real, Sunnyvale, CA 94087
